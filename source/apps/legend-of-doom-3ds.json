@@ -1,0 +1,19 @@
+{
+	"github": "tinaut1986/legend-of-doom-3ds",
+	"title": "Legend of Doom 3DS",
+	"author": "tinaut1986",
+	"systems": [
+		"3DS"
+	],
+	"categories": [
+		"game"
+	],
+	"llm_generation": "yes",
+	"icon": "https://raw.githubusercontent.com/tinaut1986/legend-of-doom-3ds/main/platform/3ds/assets/icon-48.png",
+	"image": "https://raw.githubusercontent.com/tinaut1986/legend-of-doom-3ds/main/platform/3ds/assets/banner.png",
+	"unique_ids": [
+		369361
+	],
+	"download_filter": "legend-of-doom-3ds-v[0-9.]+\\.cia$",
+	"preinstall_message": "New 3DS family only for the stable release. Needs a dumped DSP firmware (sdmc:/3ds/dspfirm.cdc) for sound."
+}

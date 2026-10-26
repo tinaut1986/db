@@ -1,0 +1,18 @@
+{
+	"github": "tinaut1986/mzm",
+	"title": "Metroid Zero Mission 3DS",
+	"author": "tinaut1986",
+	"systems": [
+		"3DS"
+	],
+	"categories": [
+		"game"
+	],
+	"llm_generation": "yes",
+	"icon": "https://raw.githubusercontent.com/tinaut1986/mzm/main/platform/3ds/assets/icon-48.png",
+	"image": "https://raw.githubusercontent.com/tinaut1986/mzm/main/platform/3ds/assets/banner.png",
+	"unique_ids": [
+		6534
+	],
+	"preinstall_message": "Requires a legally obtained Metroid: Zero Mission GBA ROM (EUR, USA or JAP) in sdmc:/3ds/Metroid Zero Mission 3DS/ and a dumped DSP firmware for sound."
+}

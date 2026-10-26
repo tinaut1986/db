@@ -1,0 +1,19 @@
+{
+	"github": "tinaut1986/RSDKv5-Decompilation",
+	"title": "Sonic Mania 3DS",
+	"author": "tinaut1986",
+	"description": "Sonic Mania port drawn by the 3DS GPU, aimed at running well on Old 3DS and 2DS as well as New 3DS",
+	"systems": [
+		"3DS"
+	],
+	"categories": [
+		"game"
+	],
+	"llm_generation": "yes",
+	"icon": "https://raw.githubusercontent.com/tinaut1986/RSDKv5-Decompilation/main/3ds/48x48.png",
+	"image": "https://raw.githubusercontent.com/tinaut1986/RSDKv5-Decompilation/main/3ds/banner.png",
+	"unique_ids": [
+		369200
+	],
+	"preinstall_message": "Requires Data.rsdk from your own copy of Sonic Mania in sdmc:/3ds/Sonic Mania 3DS/."
+}

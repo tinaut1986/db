@@ -1,0 +1,19 @@
+{
+	"github": "tinaut1986/zelda-tmc-3ds",
+	"title": "Minish Cap 3DS",
+	"author": "tinaut1986",
+	"description": "Fork of zelda-tmc-3ds: dual-screen Minish Cap port aimed at 60 fps on Old and New 3DS, installs as its own app",
+	"systems": [
+		"3DS"
+	],
+	"categories": [
+		"game"
+	],
+	"llm_generation": "yes",
+	"icon": "https://raw.githubusercontent.com/tinaut1986/zelda-tmc-3ds/main/platform/3ds/assets/icon-48.png",
+	"image": "https://raw.githubusercontent.com/tinaut1986/zelda-tmc-3ds/main/platform/3ds/assets/banner.png",
+	"unique_ids": [
+		369198
+	],
+	"preinstall_message": "Requires a legally obtained The Minish Cap GBA ROM (USA or EUR) in sdmc:/3ds/Minish Cap 3DS/ and a dumped DSP firmware for sound."
+}

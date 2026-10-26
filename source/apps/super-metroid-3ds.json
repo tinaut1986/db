@@ -1,0 +1,19 @@
+{
+	"github": "tinaut1986/sm-3ds",
+	"title": "Super Metroid 3DS",
+	"author": "tinaut1986",
+	"description": "Native 3DS port of Super Metroid with stereoscopic 3D and widescreen",
+	"systems": [
+		"3DS"
+	],
+	"categories": [
+		"game"
+	],
+	"llm_generation": "yes",
+	"icon": "https://raw.githubusercontent.com/tinaut1986/sm-3ds/main/resources/icon.png",
+	"image": "https://raw.githubusercontent.com/tinaut1986/sm-3ds/main/resources/banner.png",
+	"unique_ids": [
+		518373
+	],
+	"preinstall_message": "Requires your own Super Metroid SNES ROM in sdmc:/3ds/Super Metroid 3DS/."
+}
