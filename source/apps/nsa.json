@@ -1,0 +1,17 @@
+{
+	"github": "tinaut1986/NSA",
+	"author": "tinaut1986",
+	"systems": [
+		"3DS"
+	],
+	"categories": [
+		"utility"
+	],
+	"unique_ids": [
+		1030560
+	],
+	"llm_generation": "yes",
+	"image": "https://raw.githubusercontent.com/tinaut1986/NSA/master/docs/images/main-menu.png",
+	"icon": "https://raw.githubusercontent.com/tinaut1986/NSA/master/meta/icon_3ds.png",
+	"long_description": "NSA is an open source title manager for the Nintendo 3DS, based on [FBI](https://github.com/Steveice10/FBI) 2.6.1 with a new interface, new tools and its own updater. It installs next to FBI (it does not replace it) and keeps its data in `sdmc:/nsa/`.\n\n- **Install** CIAs and tickets from the SD card, from a computer on your network, or from a URL or QR code.\n- **Send files and installed titles to another 3DS** running NSA, over Wi-Fi or with no router at all. Interrupted transfers resume where they stopped.\n- **Manage titles, tickets and data**: list or icon grid with filters and search, back up, restore and send save data, extra data and SpotPass data (Checkpoint backups are found too), export a title as a CIA.\n- **File browser** for the SD card with a picture viewer, text viewer and editor, and an audio player (MP3, WAV, FLAC, Ogg Vorbis).\n- **Web page** (optional, protected by a PIN) to manage the console from your computer's browser.\n- **Advanced** tools for the NAND and system data, behind a warning.\n- Three themes, English and Spanish, stereoscopic 3D, optional generated background music, and updates from Settings on the Stable or Beta channel.\n\nSome tools need Luma3DS, as in FBI."
+}
